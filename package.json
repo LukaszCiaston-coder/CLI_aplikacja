@@ -19,5 +19,8 @@
   "homepage": "https://github.com/LukaszCiaston-coder/CLI_aplikacja#readme",
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^11.0.0"
   }
 }
